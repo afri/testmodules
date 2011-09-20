@@ -1,4 +1,4 @@
-var c = require('apollo:debug').console();
+var c = require('apollo:debug').console({collapsed:false});
 c.log('Hello from the greasemonkey.sjs script');
 c.log('Now doing something asynchronous:');
 for (var i=0; i<10; ++i) {
