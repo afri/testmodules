@@ -2,6 +2,9 @@
 
 function help() {
   console.log("
+*** THIS MODULE IS OBSOLETE!!                        ***
+*** The SJS blocklambda call syntax has been changed ***
+
 This module contains some demo code for the 'block lambda' feature implemented in the
 most recent trunk version of Oni Labs' StratifiedJS implementation 'Apollo'.
 
